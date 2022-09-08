@@ -1,0 +1,8 @@
+is dfa phale pull command ko run karna hai.
+kyun k phale push command ko use kiya toh us ne error de diya.
+is dafa dekho kya hota hai???
+=======
+abhi is file ko remote k through bhi add kar diya hai.
+is dafa phale local pr commit kiya hai.
+let's see what will be happened.
+

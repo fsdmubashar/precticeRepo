@@ -1,3 +1,4 @@
- 968b216
-  968b216 968b216 968b216 968b216
-   968b216 968b216 968b216
+now what:
+first i have creted the new github account.
+than i have add/collbart it with old github account.
+than the permission rules have been set for merging.
